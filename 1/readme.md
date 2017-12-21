@@ -36,5 +36,3 @@ For example:
 * 123123 produces 12.
 * 12131415 produces 4.
 What is the solution to your new captcha?
-
-Your puzzle answer was 1092.
