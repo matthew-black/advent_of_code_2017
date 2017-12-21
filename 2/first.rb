@@ -12,4 +12,4 @@ def each_rows_largest_difference(spreadsheet)
   end
 end
 
-p solve_that_checksum(sheet)
+puts solve_that_checksum(sheet)
